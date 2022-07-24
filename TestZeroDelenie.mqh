@@ -1,6 +1,6 @@
 bool TestZeroDelenie()
 {
-if(q>0)
+if(lots>0)
    return(true);
 else
    return(false);
